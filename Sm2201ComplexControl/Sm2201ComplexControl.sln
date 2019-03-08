@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.Control.Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.ImageProcessing.Tests", "Sm2201.Complex.ImageProcessing.Tests\Sm2201.Complex.ImageProcessing.Tests.csproj", "{D9B5FD5D-F59F-479D-BA47-ED29F451C135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sm2201.Complex.Control.Data", "Sm2201.Complex.Control.Data\Sm2201.Complex.Control.Data.csproj", "{A6289EEF-900B-4C12-B78D-EDBA3511B971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.Control.Data", "Sm2201.Complex.Control.Data\Sm2201.Complex.Control.Data.csproj", "{A6289EEF-900B-4C12-B78D-EDBA3511B971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sm2201.Complex.Control.Data.Tests", "Sm2201.Complex.Control.Data.Tests\Sm2201.Complex.Control.Data.Tests.csproj", "{5E92D395-41BD-42A4-BE45-3559AE20B05D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.Control.Data.Tests", "Sm2201.Complex.Control.Data.Tests\Sm2201.Complex.Control.Data.Tests.csproj", "{5E92D395-41BD-42A4-BE45-3559AE20B05D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sm2201.Complex.Control.Dto", "Sm2201.Complex.Control.Dto\Sm2201.Complex.Control.Dto.csproj", "{4FF727D0-EF97-4C12-BA1A-9CEBF0D94D4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.Control.Dto", "Sm2201.Complex.Control.Dto\Sm2201.Complex.Control.Dto.csproj", "{4FF727D0-EF97-4C12-BA1A-9CEBF0D94D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sm2201.Complex.Control.WebApi", "Sm2201.Complex.Control.WebApi\Sm2201.Complex.Control.WebApi.csproj", "{629BE31F-BAEF-4020-9264-089C996A9693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.Control.WebApi", "Sm2201.Complex.Control.WebApi\Sm2201.Complex.Control.WebApi.csproj", "{629BE31F-BAEF-4020-9264-089C996A9693}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sm2201.Complex.Control.WebApi.Tests", "Sm2201.Complex.Control.WebApi.Tests\Sm2201.Complex.Control.WebApi.Tests.csproj", "{DF79AB73-7712-4434-A5C5-9B78EF63B3ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sm2201.Complex.Control.WebApi.Tests", "Sm2201.Complex.Control.WebApi.Tests\Sm2201.Complex.Control.WebApi.Tests.csproj", "{DF79AB73-7712-4434-A5C5-9B78EF63B3ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sm2201.Common", "Sm2201.Common\Sm2201.Common.csproj", "{942111ED-BEE3-4A3D-B154-BEE70EBF6BA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{DF79AB73-7712-4434-A5C5-9B78EF63B3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF79AB73-7712-4434-A5C5-9B78EF63B3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF79AB73-7712-4434-A5C5-9B78EF63B3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942111ED-BEE3-4A3D-B154-BEE70EBF6BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942111ED-BEE3-4A3D-B154-BEE70EBF6BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942111ED-BEE3-4A3D-B154-BEE70EBF6BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942111ED-BEE3-4A3D-B154-BEE70EBF6BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
